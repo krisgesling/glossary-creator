@@ -1,0 +1,17 @@
+body {
+  font: 18px Arial, sans-serif;
+}
+section {
+  margin: 3em;
+}
+input,
+textarea {
+  width: 90%;
+  padding: 1em;
+}
+textarea {
+  height: 5em;
+}
+h3 {
+  font-size: 2em;
+}
